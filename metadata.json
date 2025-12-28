@@ -1,0 +1,8 @@
+{
+  "name": "USVS - Unified Synchronization and Visualization",
+  "description": "A minimalist desktop synchronization and system monitoring dashboard with real-time file sharing and performance visualizations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
